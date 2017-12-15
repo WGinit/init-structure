@@ -3,7 +3,7 @@
 
 npm server
 
-###效果图如下
+### 效果图如下
 
 ![image](https://github.com/WGinit/init-structure/blob/master/wginit-cmd.jpg)
 ![image](https://github.com/WGinit/init-structure/blob/master/wginit-ide.jpg)
