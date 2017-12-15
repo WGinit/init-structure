@@ -1,1 +1,1 @@
-# init-structure
+# 利用npm生成自定义的项目树形结构
